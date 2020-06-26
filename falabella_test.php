@@ -14,7 +14,6 @@
             $valueToCheck = getDiv($valueToCheck,3,3,"Falabella");
             $valueToCheck = getDiv($valueToCheck,5,5,"IT");
             $result .= $valueToCheck.",";
-
         }
       return $result;
 } 
